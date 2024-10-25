@@ -5,8 +5,11 @@ function App() {
   return (
     <>
       <div>
-        <div></div>
         <h1 className="logo-name">Cultural Canvas</h1>
+
+        <div>
+          <div className="item">Home</div>
+        </div>
       </div>
 
       <div className="blob">
