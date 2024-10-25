@@ -4,7 +4,11 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
+      <div>
+        <div></div>
+        <h1 className="logo-name">Cultural Canvas</h1>
+      </div>
+
       <div className="blob">
         <svg
           id="sw-js-blob-svg"
